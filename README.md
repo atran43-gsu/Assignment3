@@ -4,5 +4,5 @@
 1. An Tran
 2. Abu Nadim Kabir
 3. Meron Ambelu (coordinator)
-4.Puneet Singh
-5.Savada Wilson
+4. Puneet Singh
+5. Savada Wilson
